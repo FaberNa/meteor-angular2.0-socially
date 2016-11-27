@@ -1,4 +1,4 @@
-This part of the tutorial will cover the usage of third-party libraries with angular2-meteor.
+This part of the tutorial will cover the usage of third-party libraries with angular2-meteor.This is useful for know when use npm or Atmosphere
 
 Parts of this tutorial are also relevant for users who uses only Meteor, without angular2-meteor, because the solution for third-party libraries comes from Meteor packaging manager - **Atmosphere**.
 
