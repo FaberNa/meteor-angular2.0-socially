@@ -128,7 +128,7 @@ Now we can move on to use that function in `PartiesUpload` component:
 
 Now let's take a little break and solve those annoying missing modules errors. Since the uploading packages we used in the `upload` method are package that comes from Meteor Atmosphere and they not provide TypeScript declaration (`.d.ts` files), we need to create one for them.
 
-Let's add it:
+Let's add it to typings.d.ts, the file in root folder ( where we add, previously, module 'meteor/tmeasday:publish-counts')
 
 {{{diff_step 21.22}}}
 
